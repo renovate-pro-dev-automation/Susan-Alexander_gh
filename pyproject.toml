@@ -8,7 +8,7 @@ license = "n"
 [tool.poetry.dependencies]
 python = "^3.9"
 PyGithub = "1.53"
-Django = "1.2.2"
+Django = "4.2.16"
 djangorestframework = "==3.11.1"
 
 [tool.poetry.dev-dependencies]
